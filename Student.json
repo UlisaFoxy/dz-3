@@ -1,0 +1,30 @@
+{
+  "object": "student",
+  "name": "Alisa",
+  "surname": "Shyrenko",
+  "age": "36",
+  "job ": {
+    "tittle": "QA Manual",
+    "experiense": "2"
+  },
+  "number": "0999003262",
+  "favoriteHangout": "travel",
+  "parents": [
+    {
+      "mother": "Valentina",
+      "age": "62",
+      "TheBestMom": true
+    },
+    {
+      "father": "Aleksander",
+      "age": "63",
+      "TheBestMom": false,
+      "TheBestDad": true
+    }
+  ],
+  "partner": {
+    "name": "Aleksander",
+    "age": "42",
+    "coolGuy": true
+  }
+}

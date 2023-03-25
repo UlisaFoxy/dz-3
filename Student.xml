@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<object>student</object>
+	<name>Alisa</name>
+	<surname>Shyrenko</surname>
+	<age>36</age>
+	<job>
+		<tittle>QA Manual</tittle>
+		<experiense>2</experiense>
+	</job>
+	<number>0999003262</number>
+	<favoriteHangout>travel</favoriteHangout>
+	<parents>
+		<parent1>
+			<mother>Valentina</mother>
+			<age>62</age>
+			<TheBestMom>true</TheBestMom>
+		</parent1>
+		<parent2>
+			<father>Aleksander</father>
+			<age>63</age>
+			<TheBestMom>false</TheBestMom>
+			<TheBestDad>true</TheBestDad>
+		</parent2>
+	</parents>
+	<partner>
+		<name>Aleksander</name>
+		<age>42</age>
+		<coolGuy>true</coolGuy>
+	</partner>
+</root>
