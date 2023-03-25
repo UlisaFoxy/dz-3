@@ -1,0 +1,25 @@
+student:
+  name: Alisa
+  surname: Shyrenko
+  fullname: "Alisa \"Ulisa\" Shyrenko"
+  date-of-birth: 1986-07-29
+  age: 36
+  job:
+    tittle: QA Manual
+    experiense: 2
+  number: 0999003262
+  favoriteHangout:
+    - "Travel"
+    - "Books"
+  parents:
+    mother: Valentina
+      age: 62
+      TheBestMom: true
+    father: Aleksander
+      age: 63
+      TheBestMom: false
+      TheBestDad: true
+  partner:
+    name: Aleksander
+    age: 42
+    coolGuy: true
